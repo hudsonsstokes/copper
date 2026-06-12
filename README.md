@@ -1,4 +1,4 @@
-# copper
+# Copper
 🚀 **Live Demo:** [https://copper-training--stokeshudson.replit.app](https://copper-training--stokeshudson.replit.app)
 
 An intelligent, interactive AI workout trainer designed to personalize and optimize your fitness routine.
