@@ -8,7 +8,7 @@ Copper acts as your personal digital fitness coach. It leverages advanced AI to 
 
 ## Tech Stack
 - **Frontend:** React / Next.js
-- **AI Engine:** Google Gemini API
+- **AI Engine:** Chat GPT API
 - **Backend:** Node.js / Express
 - **Deployment:** Replit
 <img width="2493" height="1495" alt="image" src="https://github.com/user-attachments/assets/eeb92e7b-8439-4771-b86b-33fd75f5750f" />
